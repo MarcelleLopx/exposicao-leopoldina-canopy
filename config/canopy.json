@@ -1,34 +1,30 @@
 {
   "prod": {
-    "label": { "none": ["Coleção Sebastião Lacerda"] },
+    "label": { "none": ["Exposição: Imagens do passado na novela 'Novo Mundo'"] },
     "summary": {
       "none": [
         "a IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions"
       ]
     },
-    "collection": "https://sebastiao-lacerda.vercel.app/",
+    "collection": "https://acervo-novo-mundo.vercel.app",
     "featured": [
-      "https://sebastiao-lacerda.vercel.app/32484260/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514315/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514351/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514391/manifest.json"    
-    ],
-    "metadata": ["Data", "Tipo", "Autoria"]
+      "https://acervo-novo-mundo.vercel.app/5/manifest.json"
+  ],
+      
+    "metadata": ["Date", "Type", "Creator"]
   },
   "dev": {
-    "label": { "none": ["Coleção Sebastião Lacerda"] },
+    "label": { "none": ["Exposição: Imagens do passado na novela 'Novo Mundo'"] },
     "summary": {
       "none": [
         "a IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions"
       ]
     },
-    "collection": "https://sebastiao-lacerda.vercel.app",
+    "collection": "https://acervo-novo-mundo.vercel.app",
     "featured": [
-      "https://sebastiao-lacerda.vercel.app/32484260/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514315/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514351/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514391/manifest.json" 
-    ],
-    "metadata": ["Data", "Tipo", "Autoria"]
+      "https://acervo-novo-mundo.vercel.app/5/manifest.json"
+  ],
+      
+    "metadata": ["Date", "Type", "Creator"]
   }
 }
