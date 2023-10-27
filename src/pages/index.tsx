@@ -46,19 +46,18 @@ const Index: React.FC<IndexProps> = ({ featuredItem, collections }) => {
         <Hero collection={hero} />
       </HeroWrapper>
       <Container>
-        <Heading as="h2">Sobre a coleção</Heading>
+        <Heading as="h2">Sobre a exposição</Heading>
         <div>
           <p>
-          Nos anos 1960, quando governava o Estado da Guanabara, Carlos Lacerda (1914-1977) ganhou, 
-          não se sabe de quem, uma mala cheia de negativos fotográficos de vidro, além de imagens impressas.
-          Eram registros raros do Rio em sua belle époque –o período entre 1902 e 1930–, fase de grandes 
-          transformações urbanas na então capital do país. Após anos esquecido e inacessível ao público, 
-          esse material foi comprado no fim de 2016 pelo IMS (Instituto Moreira Salles) e agora está disponível 
-          para consulta. A estrela do acervo é o morro do Castelo, berço da fundação do Rio, que ficava na região 
-          central. Cerca de 40% das imagens retratam o cotidiano de seus habitantes e sua demolição, nos anos 1920.
-          <br />- Marco Aurélio Canônico, extraído de{" "}
-          <a href="https://www1.folha.uol.com.br/ilustrada/2017/01/1854362-acervo-de-carlos-lacerda-com-fotos-da-belle-epoque-carioca-sera-digitalizado.shtml">
-          Folha de São Paulo
+          A partir da representação da personagem histórica de Maria Leopoldina da
+Áustria na telenovela de época Novo Mundo (2017), buscamos analisar referências presentes 
+em seu figurino em obras imagéticas e historiográficas que retratam a figura da Princesa 
+na História do Brasil Imperial. A partir da análise do traje de cena buscamos demonstrar 
+como os figurinos históricos podem oferecer contribuições para a disseminação de conhecimento 
+histórico, transmitindo memórias culturais e midiáticas para o telespectador brasileiro.
+          <br />- Para mais informações sobre a novela, acesse{" "}
+          <a href="https://memoriaglobo.globo.com/entretenimento/novelas/novo-mundo/">
+          Memória Globo
           </a>.
           </p>
         </div>
